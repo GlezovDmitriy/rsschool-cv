@@ -3,7 +3,7 @@
 ### Contacts:
 
 + GitHab: GlezovDmitriy
-+ Discord: GlezovDmitriy
++ Discord: GlezovDmitriy#8755
 + E-mail: dmitriy_glezov@mail.ru
 
 ### About myself:
